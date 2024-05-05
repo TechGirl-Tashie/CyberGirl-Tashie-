@@ -1,6 +1,6 @@
 <!-- Cyber Girl GitHub Profile -->
 <p align="center">
-  <img src="" alt="Cyber Girl" width="200"/>
+  
 </p>
 
 ### 👩‍💻 Meet Tashie, the Cyber Girl! 👩‍💻
