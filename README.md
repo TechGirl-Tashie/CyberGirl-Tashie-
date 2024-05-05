@@ -1,48 +1,21 @@
-# CyberGirl-Tashie-<h1>Hi, I'm Tashie! <br/><a href="https://github.com/TechGirl-Tashie/CyberGirl-Tashie">Cloud Security Engineer</a>, <a href="https://www.linkedin.com/in/tashiewiley">Cybersecurity Professional</a>, </h1>
+<!-- Cyber Girl GitHub Profile -->
+<p align="center">
+  <img src="https://your-image-url.com" alt="Cyber Girl" width="200"/>
+</p>
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
+### 👩‍💻 Meet Tashie, the Cyber Girl! 👩‍💻
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+👋 Hello there! I'm Tashie, a seasoned cyber professional with a passion for all things cloud security. As I embark on my journey into the realm of Cloud Security Engineering, I bring with me a wealth of experience and expertise gained over 7+ years in the field.
 
-<h2>📺 Popular YouTube Videos</h2>
+💼 Proud owner of Tashie Consulting Firm LLC and Wiley Tech Recruiting Firm LLC ([wileytechrecruiting.com](https://www.wileytechrecruiting.com)), I specialize in providing top-notch cybersecurity solutions and talent acquisition services. Whether it's safeguarding digital assets or connecting exceptional talent with cutting-edge tech opportunities, I thrive on delivering excellence.
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+🎓 With an Associate's Degree in Information Technology and a Bachelor's Degree in Cybersecurity with a concentration in Cloud Computing, I've honed my skills and knowledge to navigate the intricate landscapes of cybersecurity and cloud technologies.
 
-<h2> 🤳 Connect with me:</h2>
+📞 Connect with me on [LinkedIn](https://www.linkedin.com/in/tashiewiley)  
 
+</br>
 
-[<img align="left" alt="TashieWiley | LinkedIn" width="22px" src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-24x24.png" />](https://www.linkedin.com/in/tashiewiley)
-
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TechGirl-Tashie&show_icons=true&theme=radical" alt="Tashie's GitHub Stats"/>
+</p>
