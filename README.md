@@ -28,7 +28,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="TashieWiley | LinkedIn" width="22px" src="https://www.linkedin.com/in/tashiewiley" />]| " width="22px" 
+
 [linkedin]: https://www.linkedin.com/in/tashiewiley
 
 <!--
