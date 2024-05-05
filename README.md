@@ -9,7 +9,7 @@
 
 💼 Proud owner of Tashie Consulting Firm LLC and Wiley Tech Recruiting Firm LLC ([wileytechrecruiting.com](https://www.wileytechrecruiting.com)), I specialize in providing top-notch cybersecurity solutions and talent acquisition services. Whether it's safeguarding digital assets or connecting exceptional talent with cutting-edge tech opportunities, I thrive on delivering excellence.
 
-🎓 With an Associate's Degree in Information Technology and a Bachelor's Degree in Cybersecurity with a concentration in Cloud Computing, I've honed my skills and knowledge to navigate the intricate landscapes of cybersecurity and cloud technologies.
+🎓 With an Associate's Degree in Information Technology and a Bachelor's Degree in Cybersecurity with a concentration in Cloud Computing, I've constantly sharpening my skills and knowledge to navigate the intricate landscapes of cybersecurity and cloud technologies.
 
 <h2>👨‍💻 Security Projects:</h2>
 
