@@ -29,7 +29,8 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[linkedin]: https://www.linkedin.com/in/tashiewiley
+[<img align="left" alt="TashieWiley | LinkedIn" width="22px" src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-24x24.png" />](https://www.linkedin.com/in/tashiewiley)
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
